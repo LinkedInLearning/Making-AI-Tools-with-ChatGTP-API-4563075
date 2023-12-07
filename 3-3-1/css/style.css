@@ -1,0 +1,25 @@
+#chat-container {
+  width: 80%;
+  height: 400px;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+  padding: 20px;
+  overflow-y: scroll;
+}
+
+#input-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+}
