@@ -37,7 +37,7 @@ function sendMessage() {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-                Authorization: "Bearer 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",
+                Authorization: "Bearer ここにAPIを記入",
             },
             body: JSON.stringify({
                 model: "gpt-4",
