@@ -1,36 +1,17 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# ChatGPT APIで作るAIツール
+This is the repository for the LinkedIn Learning course `ChatGPT APIで作るAIツール`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![ChatGPT APIで作るAIツール][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+生成AIを自身の業務や会社で活用したいけど、自社に合ったサービスが見つからない。そんな経験はありませんか？ChatGPTをAPIと連携させれば、自身の業務や会社に特化した生成AIツールを作ることができます。このコースではChatGPT APIを使ってAIチャットボットを実際に作成しながら、ChatGPTをAPIと連携させる方法を解説します。APIの意味や開発環境の構築、開発したツールのファインチューニングやデバックの手順など生成AIツールの作成手順をひとつひとつ順を追って説明します。このコースを見れば自身の業務に最適化された生成AIツールが作れるようになり、日々の業務を劇的に効率化することができるようになるでしょう。
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+_インストラクター_
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+児玉知也
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+株式会社TENHO CTO
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: [https://www.linkedin.com/learning/](https://www.linkedin.com/learning/making-ai-tools-with-chatgpt-api/)https://www.linkedin.com/learning/making-ai-tools-with-chatgpt-api/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQEH-kGkU9s0ow/learning-public-crop_675_1200/0/1710193263997?e=2147483647&v=beta&t=wnK85IKMvhxrv-H3-nFJ_8l_RNIhICmVPTfKstd518k
 
