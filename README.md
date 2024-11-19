@@ -35,6 +35,6 @@ _株式会社TENHO CTO_
 
 この講師の他のコースを視聴する：[LinkedInラーニング](https://www.linkedin.com/learning/instructors/20257002)
 
-[lil-course-url]: (https://www.linkedin.com/learning/making-ai-tools-with-chatgpt-api/)https://www.linkedin.com/learning/making-ai-tools-with-chatgpt-api/
+[lil-course-url]: https://www.linkedin.com/learning/making-ai-tools-with-chatgpt-api/
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQEH-kGkU9s0ow/learning-public-crop_675_1200/0/1710193263997?e=2147483647&v=beta&t=wnK85IKMvhxrv-H3-nFJ_8l_RNIhICmVPTfKstd518k
 
